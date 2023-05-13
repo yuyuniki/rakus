@@ -12,6 +12,7 @@ TOKEN = '自分のトークン'
 # 接続に必要なオブジェクトを生成
 client = discord.Client(intents=intents)
 #test
+#test2
 # 起動時に動作する処理
 @bot.event
 async def on_ready():
